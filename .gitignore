@@ -4,6 +4,7 @@
 *.avi
 *.mov
 *.gif
+!subtask2/*.gif
 *.npz
 subtask3_frames/
 grayscale_frames/
